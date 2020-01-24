@@ -1,3 +1,4 @@
-# GRAVITY HACK HAS BEEN PATCHED AND DOES NOT WORK
-the code below is here for refference only
-##### There is no 'gravity hack' to date, and never install files promising to auto answer, it is most likely malware
+## These hacks work for quizlet gravity
+Once pasted into the console it will start spitting the answer. you can copy the answer and paste it into the box. auto is on the way :)
+### Instructions
+Grab the code from the file above called console spit, and paste it into the console in quizlet gravity, it will begin spitting the answer
