@@ -1,5 +1,5 @@
 ### **Instructions:**
-1. open console (confused? https://kb.mailster.co/how-can-i-open-the-browsers-console/) 
+1. open console on the quizlet match game you wish to hack (confused? https://kb.mailster.co/how-can-i-open-the-browsers-console/) 
 2. paste in the code
 3. Change the number at the end to what time you want in milliseconds (1000 milliseconds = 1 second), the smallest you can get is 500, this is on quizlets end, and is not an error in the hack. 
 
